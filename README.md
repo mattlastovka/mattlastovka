@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mattlastovka
 - 🌱 I’m currently a 4th year undergraduate student at The Ohio State University studying physics and astrophysics
-- 👀 I’m interested exoplanets and supernovae
+- 👀 I’m interested exoplanets
 <!--- 💞️ I’m looking to collaborate on ... --->
 - 📫 How to reach me: lastovka.5@osu.edu
 
