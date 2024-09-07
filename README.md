@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mattlastovka
-- 🌱 I’m currently a 1st year graduate student in Astronomy at the University of Maryland 
+- 🌱 I’m currently a 2nd year graduate student in Astronomy at the University of Maryland 
 - 👀 I’m interested exoplanets
 <!--- 💞️ I’m looking to collaborate on ... --->
 - 📫 How to reach me: mlastovk@umd.edu
